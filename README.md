@@ -25,6 +25,10 @@ Dashboard Features
 - Revenue by Sales Channel
 - Top Products by Revenue
 
+## Excel Project File
+
+[Download Sales Performance Dashboard](Sales_Performance_Dashboard.xlsx)
+
 Project Screenshot
 
 ![Sales Performance Dashboard](sales_dashboard.png)
