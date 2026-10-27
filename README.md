@@ -27,7 +27,9 @@ Dashboard Features
 
 Project Screenshot
 
-"Sales Performance Dashboard" (sales_dashboard.png)
+"Sales Performance Dashboard" 
+
+sales_dashboard.png
 
 Skills Learned
 
