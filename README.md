@@ -29,7 +29,7 @@ Project Screenshot
 
 "Sales Performance Dashboard" 
 
-sales_dashboard.png
+(sales_dashboard.png)
 
 Skills Learned
 
